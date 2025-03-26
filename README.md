@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kai-carlin
-- 👀 I’m interested in erm, le computer
-- 🌱 I’m currently learning everything 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩
-- 💞️ I’m looking to collaborate on something... mayhaps...
-- 📫 How to reach me: 2bd
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 🪿🪿🪿
+Student at College of Marin - studying electrical engineering and computer science
 
 <!---
 kai-carlin/kai-carlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
